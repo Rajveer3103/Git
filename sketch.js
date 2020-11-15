@@ -64,7 +64,7 @@ function keyPressed() {
 
 	Matter.Body.setStatic(packageBody,false)
 
-	console.log("Hello")
+	console.log("Working")
 }
 }
 
